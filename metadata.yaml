@@ -1,0 +1,33 @@
+_repo: Os-dialectos-romanicos-ou-neo-latinos-na--frica--sia-e-Am-rica_33159
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coelho, Adolfo
+    aliases:
+    - Coelho, F. Adolfo (Francisco Adolfo)
+    - Coelho, Francisco Adolfo
+    birthdate: 1847
+    deathdate: 1919
+    gutenberg_agent_id: '9919'
+    url: http://www.gutenberg.org/2009/agents/9919
+    wikipedia: http://pt.wikipedia.org/wiki/Adolfo_coelho
+description: ''
+gutenberg_issued: '2010-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33159'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Creole dialects'
+- !lcc 'PC'
+- !lcsh 'Romance languages -- Dialects'
+tableOfContents: Dialectos portuguezes -- Dialectos hespanhoes -- Dialectos franceses
+  -- Lingua franca -- Considerações geraes.
+title: Os dialectos romanicos ou neo-latinos na África, Ásia e América
+url: http://www.gutenberg.org/ebooks/33159
